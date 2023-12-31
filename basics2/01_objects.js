@@ -1,3 +1,11 @@
+/*
+There are two ways to declare an object
+
+1. singleton method.
+2. Litteral method.
+*/
+
+
 let objectLiterals = {
     name : "Sourav Kumar Rajak",
     age : 25,
