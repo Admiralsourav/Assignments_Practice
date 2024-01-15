@@ -1,0 +1,23 @@
+In javascript the exection happens in the flowing way:
+
+Javascript Execution Context:
+    1. Global Execution Context -->  This is the most important part & it happens always. And
+                                    this global exection context is stored in "this"
+    2. Function Execution Context
+    3. Eval Execution Context
+
+The Execution of the javascript happens in following way :
+    1. Memory Creation Phase
+    2. Execution Phase
+        This are the two methods and is used to ran any command
+
+
+    ## MEMORY CREATION PHASE ##
+        -- Here the value for the variable in memory is allocated undefined value.
+        -- and In case of function entire function defination is copied. As it is not a variable.
+
+    ## Execution PHASE ##
+        -- In execution the variable the values is assigned
+        -- And in case of the function comes in execution phase then a "New Variable Environment" + "Execution Thread"
+
+    reffer to the video to get more context.
